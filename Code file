@@ -16,7 +16,7 @@ int main()
             cin >> A[i][j];
         }
     }
-    cout << endl >> "Enter the dimension of first matrix" << endl;
+    cout << endl << "Enter the dimension of first matrix" << endl;
     cin >> r2 >> c2;
     cout << endl
          << "Enter the element of first matrix" << endl;
